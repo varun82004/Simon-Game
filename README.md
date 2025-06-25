@@ -82,7 +82,7 @@ A simple memory-based game inspired by the classic **Simon Electronic Game**. Th
 
 ## 💻 Live Demo
 
-👉 [Play it here]([https://your-github-username.github.io/simon-game/]) 
+👉 [Play it here]([https://your-github-username.github.io/simon-game/]) *https://varun82004.github.io/Simon-Game/*
 
 ---
 
